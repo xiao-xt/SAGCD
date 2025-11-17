@@ -1,7 +1,7 @@
 <div align='center'>
-<h1>EmoSense: A Multimodal Sentiment-Aware Framework for Music Short Video AI-Generated Content Detection</h1h1>
+<h1>EmoSense: A Multimodal Sentiment-Aware Framework for Music Short Video AI-Generated Content Detection</h1>
 <h3></h3>
-
+</div>
 
 ### TODO
 
